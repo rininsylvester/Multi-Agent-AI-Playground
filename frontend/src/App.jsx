@@ -23,6 +23,54 @@ const EXPERTS = [
     name: "Code Mentor",
     description: "Coding help, debugging, and system design.",
     icon: "💻"
+  },
+  {
+    key: "travel",
+    name: "Travel Guide",
+    description: "Trip planning, destinations, and travel tips.",
+    icon: "🌍"
+  },
+  {
+    key: "health",
+    name: "Health Coach",
+    description: "Wellness, nutrition, and fitness advice.",
+    icon: "🏋️"
+  },
+  {
+    key: "history",
+    name: "History Buff",
+    description: "World history, ancient civilizations, events.",
+    icon: "📜"
+  },
+  {
+    key: "cooking",
+    name: "Chef Bot",
+    description: "Recipes, cooking tips, and kitchen advice.",
+    icon: "👨‍🍳"
+  },
+  {
+    key: "science",
+    name: "Science Wiz",
+    description: "Physics, chemistry, biology, astronomy help.",
+    icon: "🔬"
+  },
+  {
+    key: "sports",
+    name: "Sports Analyst",
+    description: "Sports stats, insights, and predictions.",
+    icon: "🏆"
+  },
+  {
+    key: "art",
+    name: "Art Critic",
+    description: "Art movements, techniques, and analysis.",
+    icon: "🎨"
+  },
+  {
+    key: "movies",
+    name: "Movie Buff",
+    description: "Film recommendations, reviews, and trivia.",
+    icon: "🎬"
   }
 ];
 
